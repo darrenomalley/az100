@@ -1,6 +1,13 @@
-#Manage Subscriptions and Resources
-﻿# Module 1: Getting started with Microsoft Azure
+# Lab Answer Key:  Module 1: Getting started with Microsoft Azure
 # Lab: Using the Azure portals
   
-### Scenario
+## Exercise 1: Customizing the Azure portal interface
   
+#### Task 1: Connect to the Azure portal
+  
+1. On MIA-CL1, open Microsoft Edge, and then browse to [**http://portal.azure.com**](http://portal.azure.com). 
+
+1. If you receive a prompt, sign in by using the Microsoft account that is the Account Administrator of your Azure subscription. 
+
+
+#### Task 2: Explore and customize the Azure portal interface
